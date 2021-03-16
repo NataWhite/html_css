@@ -1,0 +1,44 @@
+body {
+    background-color: #07209f;
+}
+
+h1, h2, .photo {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+.first{
+    background-color: #ef9f33;
+}
+
+.first p {
+    padding: 0px 15px 25px;
+}
+
+.second {
+    background-color: #efec33;
+    margin: 0px 100px 0px;
+}
+
+.second p {
+    padding: 10px;
+}
+
+.list {
+    text-align: center;
+}
+
+.third {
+    background-color: firebrick;
+}
+
+.third p {
+    padding: 15px;
+}
+
+
+
+
