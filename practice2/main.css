@@ -1,0 +1,51 @@
+h1, h2 {
+    margin-bottom: 0px;
+    font-weight: 400;
+}
+
+hr {
+    margin-top: 0px;
+}
+
+.content {
+    margin: 10px;
+}
+
+.boldText {
+    font-weight: bold;
+}
+
+.item ul {
+    list-style-type: none;
+}
+
+h3 {
+    font-weight: bolder;
+
+}
+
+.left {
+    float: left;
+    padding: 15px;
+}
+
+.right {
+    float: right;
+}
+
+.underImage {
+    margin-top: 0px;
+}
+
+.border {
+    border: 2px solid darkgrey;
+    padding: 10px;
+}
+
+.left, .right {
+    border: 1px solid gray;
+    padding: 0px;
+    margin: 10px;
+}
+
+
