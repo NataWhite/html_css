@@ -1,6 +1,23 @@
+body {
+    width: 1500px;
+}
 h1, h2 {
     margin-bottom: 0px;
     font-weight: 400;
+}
+
+h4 {
+    font-weight: bold;
+    margin: 0px;
+    text-align: center;
+}
+ol, ul {
+    margin: 0px;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px;
 }
 
 hr {
@@ -15,13 +32,19 @@ hr {
     font-weight: bold;
 }
 
+.item {
+    background-color: #e9e3f6;
+    width: 240px;
+    padding: 10px 5px 5px;
+    border: 1px solid darkslategray;
+}
+
 .item ul {
     list-style-type: none;
 }
 
 h3 {
     font-weight: bolder;
-
 }
 
 .left {
@@ -47,5 +70,24 @@ h3 {
     padding: 0px;
     margin: 10px;
 }
+
+
+
+table {
+    border: 1px solid #cfc7c7;
+    width: 800px;
+
+
+}
+th {
+    background-color: #e9e3f6;
+    padding: 10px 5px 10px;
+}
+
+td {
+    padding: 10px 5px 10px;
+ }
+
+
 
 
