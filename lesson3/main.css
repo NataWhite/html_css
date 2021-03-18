@@ -1,0 +1,96 @@
+body {
+    width: 450px;
+}
+
+p {
+    margin: 0px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+hr {
+    margin: 30px;
+}
+
+.flexBoxOne, .flexBoxTwo, .fourBoxes, .miniBox, .flexBoxThree, .sixBoxes {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.first {
+    background-color: #ef9f33;
+    height: 100px;
+    width: 450px;
+    line-height: 100px;
+}
+
+.second {
+    background-color: aquamarine;
+    height: 150px;
+    width: 300px;
+    line-height: 150px;
+}
+
+.third {
+    background-color: coral;
+    height: 150px;
+    width: 150px;
+    line-height: 150px;
+}
+
+
+
+
+.B-box {
+    background-color: aquamarine;
+    height: 100px;
+    width: 300px;
+    line-height: 100px;
+}
+
+.fourBoxes{
+    width: 300px;
+    height: 100px;
+}
+.right-box {
+    background-color: darkgreen;
+    width: 150px;
+    height: 200px;
+    line-height: 200px;
+}
+
+.smallBox {
+    height: 100px;
+    width: 100px;
+    line-height: 100px;
+}
+
+.C-box {
+    background-color: gray;
+}
+
+.D-box {
+    background-color: firebrick;
+}
+
+.E-box {
+    background-color: darkorange;
+}
+
+
+.sixBoxes {
+    width: 300px;
+    height: 200px;
+}
+
+.B-box-two {
+    background-color: aquamarine;
+}
+
+.F-box {
+    background-color: red;
+}
+
+.G-box {
+    background-color: #e05913;
+}
